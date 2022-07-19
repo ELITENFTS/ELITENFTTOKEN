@@ -266,7 +266,7 @@ contract MyLootBox is ILootBox, Ownable, Pausable, ReentrancyGuard, MyFactory {
   }
 
   /////
-  // HELPER FUNCTIONS
+  // HELPER FUNCTIONS 
   /////
 
   // Returns the tokenId sent to _toAddress
